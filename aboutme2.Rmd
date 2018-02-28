@@ -1,0 +1,29 @@
+---
+title: "About me"
+---
+
+Hi!
+I am Ben
+I was born in the UK, but am currently studying in the USA
+I'm a pretty cool guy
+
+Here are my favorite things:
+
+1. Sarah Jaan
+2. Football
+3. Guitar
+    + I like playing Coldplay songs
+    
+Here are my favorite foods:
+
+* Dark chocolate
+* Milk chocolate
+* Nutella
+    + More chocolate
+
+In another life these are the things I would have done:
+
+Top things    | More things
+------------- | -------------
+Footballer    | Tennis player
+Rock star     | Astronaut
